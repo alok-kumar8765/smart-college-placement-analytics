@@ -1,0 +1,21 @@
+Student_ID,Student_Name,Year,Branch,Company,Package,Placement_Status,Location
+STU001,Aarav Sharma,2024,CSE,TCS,7.5,Placed,Pune
+STU002,Ananya Singh,2024,CSE,Infosys,9.2,Placed,Bangalore
+STU003,Rohan Verma,2024,IT,Accenture,8.5,Placed,Bangalore
+STU004,Priya Gupta,2024,IT,TCS,6.8,Placed,Pune
+STU005,Aditya Kumar,2024,ECE,Tech Mahindra,5.5,Placed,Noida
+STU006,Neha Singh,2024,ECE,Infosys,7.0,Placed,Bangalore
+STU007,Arjun Patel,2024,ME,Maruti Suzuki,6.2,Placed,Gurgaon
+STU008,Simran Kaur,2024,CSE,Microsoft,22.0,Placed,Hyderabad
+STU009,Vivek Yadav,2024,IT,Wipro,6.5,Placed,Bangalore
+STU010,Kavya Sharma,2024,ECE,TCS,7.2,Placed,Pune
+STU011,Rahul Mishra,2025,CSE,Microsoft,28.0,Placed,Hyderabad
+STU012,Ishita Verma,2025,CSE,Amazon,24.0,Placed,Bangalore
+STU013,Akash Singh,2025,IT,Infosys,10.5,Placed,Bangalore
+STU014,Sneha Gupta,2025,IT,Accenture,9.5,Placed,Noida
+STU015,Manish Kumar,2025,ECE,TCS,8.0,Placed,Pune
+STU016,Pooja Sharma,2025,ECE,Infosys,8.5,Placed,Bangalore
+STU017,Ravi Patel,2025,ME,Tata Motors,7.0,Placed,Pune
+STU018,Divya Singh,2025,CSE,TCS,9.0,Placed,Pune
+STU019,Karan Verma,2025,IT,Wipro,7.5,Placed,Bangalore
+STU020,Nisha Yadav,2025,ECE,Tech Mahindra,6.8,Placed,Noida
